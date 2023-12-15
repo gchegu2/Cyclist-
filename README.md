@@ -1,4 +1,5 @@
 Case Study 1: How Does a Bike-Share Navigate Speedy Success?
+<img width="465" alt="Screenshot 2023-12-15 at 11 45 29 AM" src="https://github.com/gchegu2/Cyclist-/assets/153938014/481f7565-d3cd-4bf7-b5ef-3154ef2aa4ab">
 
 Scenario: 
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
@@ -22,7 +23,7 @@ Your top three recommendations based on your analysis
 Moreno has assigned you the first question to answer:  How do annual members and casual riders use Cyclistic bikes differently?
 
 
-**ASK : **
+ASK : 
 
 Key Stakeholders : 
 
