@@ -47,3 +47,4 @@ My insights can help drive business decisions by looking at the data in Excel an
 
 Prepare
 You will use Cyclist's historical trip data to analyze and identify trends. Download the Cyclistic trip data here .(Note: Choose “202004-divvy-tripdata.zip Jun 1st 2020, 07:50:06 am” ) You can choose to work with an entire year of data, or just one quarter of a year. If you are working in Google Sheets, there are some less that might be too large to view. This is public data that you can use to explore how different customer types are using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders’ personally identifiable information. This means that you won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes. 
+
