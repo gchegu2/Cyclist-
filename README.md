@@ -37,13 +37,19 @@ Cyclistic executive team: The notoriously detail-oriented executive team will de
 Business Task :   How do annual members and casual riders use Cyclistic bikes differently?
 
 Key Questions: 
+
 How do annual members and casual riders use Cyclistic bikes differently?
+
 Why would casual riders buy Cyclistic annual memberships?
+
 How can Cyclists use digital media to influence casual riders to become members?
 
 What is the problem you are trying to solve?
+
 After looking at the scenario and reading about the company data, our company goal is to grow further and sign up more annual members. For our company we get more profitable on annual membership compared to the casual riders. So Moreno believes that maximizing the number of annual members will help future growth. Our main goal is to try to convert casual riders to members. 
+
 How can your insights drive business decisions?
+
 My insights can help drive business decisions by looking at the data in Excel and help find out how many people are casual riders and how many people are taking advantage of the annual program. We can also use SQL data to find out the exact number of people who use the program. And try to find out how many people are casual riders depending on the location and number of bikes used at individual stations.  
 
 
